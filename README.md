@@ -23,8 +23,8 @@ Teach 30 minutes of Python, earn 30 credits, spend them learning C from someone 
 ## Project structure
 ```
 backend/    FastAPI API, matching engine, credit ledger, tests
-frontend/   Planned UI (see frontend/README.md)
-docs/       Hackathon pitch deck (SkillSwap_Hackathon.pptx)
+frontend/   Planned UI (see frontend/index.html)
+docs/       Hackathon pitch deck (TEAM-AUSTERLITZ.pptx)
 ```
 
 ## Getting started
